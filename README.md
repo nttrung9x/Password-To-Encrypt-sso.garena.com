@@ -41,7 +41,4 @@ JavaScript RSA Library writen in c#
 
 ### ❤️ Donate
 if this project helpful you , you can donate me at :
-## Bank
-0369575678 / MB BANK / NGUYEN DAC TAI
-## Paypal : nguyendactaidn@gmail.com or [Link Paypal](https://www.paypal.com/paypalme/nguyendactai)
 ## USDT Addess : TLisbK8mQKX9hD7XZiWDEKPXnXT9vxnadF
